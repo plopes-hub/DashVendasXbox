@@ -11,7 +11,6 @@ Projeto do Bootcamp Santander Excel com Inteligência Artificial da
 ## Ferramenta Utilizada
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
 ## Etapas
 
  | Etapa | Descrição |
@@ -30,6 +29,9 @@ Projeto do Bootcamp Santander Excel com Inteligência Artificial da
 
 ![Dash Vendas Xbox](https://github.com/user-attachments/assets/a06df00e-c281-4e2e-85b9-86539e86fd19)
 
+## Anexos
+
+[Dashboard Vendas Xbox.xlsx](https://github.com/user-attachments/files/20795526/Dashboard.Vendas.Xbox.xlsx)
 
 ## Resultado
 
